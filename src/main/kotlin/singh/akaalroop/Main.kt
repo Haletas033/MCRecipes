@@ -4,6 +4,7 @@ import io.github.cdimascio.dotenv.dotenv
 import com.slack.api.bolt.App
 import com.slack.api.bolt.AppConfig
 import com.slack.api.bolt.socket_mode.SocketModeApp
+import com.slack.api.model.event.AppMentionEvent
 import com.slack.api.model.event.MessageEvent
 
 
@@ -22,7 +23,14 @@ fun main() {
     val app = App(config)
 
     app.event(MessageEvent::class.java) { payload, ctx ->
-        ctx.ack();
+        ctx.ack()
+    }
+
+    app.event(AppMentionEvent::class.java) { payload, ctx ->
+        val event = payload.event
+
+        ctx.say("Hi there <@${event.user}>")
+        ctx.ack()
     }
 
 
