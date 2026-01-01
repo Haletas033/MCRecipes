@@ -2078,22 +2078,6 @@
     "shapeless": false
   },
   {
-    "item": "Bow",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Bow",
-      "Bow",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Bowl",
     "quantity": 4,
     "recipe": [
@@ -3622,30 +3606,6 @@
     "shapeless": false
   },
   {
-    "item": "Crossbow",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      [
-        "Crossbow",
-        "Crossbow",
-        "Crossbow"
-      ],
-      [
-        "Crossbow",
-        "Crossbow",
-        "Crossbow"
-      ],
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Cut Copper",
     "quantity": 4,
     "recipe": [
@@ -4424,22 +4384,6 @@
     "item": "Diamond Axe",
     "quantity": 1,
     "recipe": [
-      null,
-      null,
-      null,
-      "Diamond Axe",
-      "Diamond Axe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Diamond Axe",
-    "quantity": 1,
-    "recipe": [
       "Diamond",
       "Diamond",
       null,
@@ -4469,22 +4413,6 @@
     "shapeless": false
   },
   {
-    "item": "Diamond Boots",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Diamond Boots",
-      "Diamond Boots",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Diamond Chestplate",
     "quantity": 1,
     "recipe": [
@@ -4501,22 +4429,6 @@
     "shapeless": false
   },
   {
-    "item": "Diamond Chestplate",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Diamond Chestplate",
-      "Diamond Chestplate",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Diamond Helmet",
     "quantity": 1,
     "recipe": [
@@ -4531,38 +4443,6 @@
       "Diamond"
     ],
     "shapeless": false
-  },
-  {
-    "item": "Diamond Helmet",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Diamond Helmet",
-      "Diamond Helmet",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Diamond Hoe",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Diamond Hoe",
-      "Diamond Hoe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Diamond Hoe",
@@ -4597,38 +4477,6 @@
     "shapeless": false
   },
   {
-    "item": "Diamond Leggings",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Diamond Leggings",
-      "Diamond Leggings",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Diamond Pickaxe",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Diamond Pickaxe",
-      "Diamond Pickaxe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Diamond Pickaxe",
     "quantity": 1,
     "recipe": [
@@ -4649,22 +4497,6 @@
     "quantity": 1,
     "recipe": [
       null,
-      null,
-      null,
-      "Diamond Shovel",
-      "Diamond Shovel",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Diamond Shovel",
-    "quantity": 1,
-    "recipe": [
-      null,
       "Diamond",
       null,
       null,
@@ -4675,22 +4507,6 @@
       null
     ],
     "shapeless": false
-  },
-  {
-    "item": "Diamond Sword",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Diamond Sword",
-      "Diamond Sword",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Diamond Sword",
@@ -5456,22 +5272,6 @@
     "shapeless": true
   },
   {
-    "item": "Flint and Steel",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Flint and Steel",
-      "Flint and Steel",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Flower Pot",
     "quantity": 1,
     "recipe": [
@@ -5683,22 +5483,6 @@
     "item": "Golden Axe",
     "quantity": 1,
     "recipe": [
-      null,
-      null,
-      null,
-      "Golden Axe",
-      "Golden Axe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Golden Axe",
-    "quantity": 1,
-    "recipe": [
       "Gold Ingot",
       "Gold Ingot",
       null,
@@ -5726,22 +5510,6 @@
       "Gold Ingot"
     ],
     "shapeless": false
-  },
-  {
-    "item": "Golden Boots",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Golden Boots",
-      "Golden Boots",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Golden Carrot",
@@ -5776,22 +5544,6 @@
     "shapeless": false
   },
   {
-    "item": "Golden Chestplate",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Golden Chestplate",
-      "Golden Chestplate",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Golden Helmet",
     "quantity": 1,
     "recipe": [
@@ -5806,22 +5558,6 @@
       "Gold Ingot"
     ],
     "shapeless": false
-  },
-  {
-    "item": "Golden Helmet",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Golden Helmet",
-      "Golden Helmet",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Golden Hoe",
@@ -5872,38 +5608,6 @@
     "shapeless": false
   },
   {
-    "item": "Golden Leggings",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Golden Leggings",
-      "Golden Leggings",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Golden Pickaxe",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Golden Pickaxe",
-      "Golden Pickaxe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Golden Pickaxe",
     "quantity": 1,
     "recipe": [
@@ -5924,22 +5628,6 @@
     "quantity": 1,
     "recipe": [
       null,
-      null,
-      null,
-      "Golden Shovel",
-      "Golden Shovel",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Golden Shovel",
-    "quantity": 1,
-    "recipe": [
-      null,
       "Gold Ingot",
       null,
       null,
@@ -5950,22 +5638,6 @@
       null
     ],
     "shapeless": false
-  },
-  {
-    "item": "Golden Sword",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Golden Sword",
-      "Golden Sword",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Golden Sword",
@@ -6733,22 +6405,6 @@
     "item": "Iron Axe",
     "quantity": 1,
     "recipe": [
-      null,
-      null,
-      null,
-      "Iron Axe",
-      "Iron Axe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Iron Axe",
-    "quantity": 1,
-    "recipe": [
       "Iron Ingot",
       "Iron Ingot",
       null,
@@ -6794,22 +6450,6 @@
     "shapeless": false
   },
   {
-    "item": "Iron Boots",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Iron Boots",
-      "Iron Boots",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Iron Chestplate",
     "quantity": 1,
     "recipe": [
@@ -6824,22 +6464,6 @@
       "Iron Ingot"
     ],
     "shapeless": false
-  },
-  {
-    "item": "Iron Chestplate",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Iron Chestplate",
-      "Iron Chestplate",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Iron Door",
@@ -6872,38 +6496,6 @@
       "Iron Ingot"
     ],
     "shapeless": false
-  },
-  {
-    "item": "Iron Helmet",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Iron Helmet",
-      "Iron Helmet",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Iron Hoe",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Iron Hoe",
-      "Iron Hoe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Iron Hoe",
@@ -6970,22 +6562,6 @@
     "shapeless": false
   },
   {
-    "item": "Iron Leggings",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Iron Leggings",
-      "Iron Leggings",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Iron Nugget",
     "quantity": 9,
     "recipe": [
@@ -7005,22 +6581,6 @@
     "item": "Iron Pickaxe",
     "quantity": 1,
     "recipe": [
-      null,
-      null,
-      null,
-      "Iron Pickaxe",
-      "Iron Pickaxe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Iron Pickaxe",
-    "quantity": 1,
-    "recipe": [
       "Iron Ingot",
       "Iron Ingot",
       "Iron Ingot",
@@ -7038,22 +6598,6 @@
     "quantity": 1,
     "recipe": [
       null,
-      null,
-      null,
-      "Iron Shovel",
-      "Iron Shovel",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Iron Shovel",
-    "quantity": 1,
-    "recipe": [
-      null,
       "Iron Ingot",
       null,
       null,
@@ -7064,22 +6608,6 @@
       null
     ],
     "shapeless": false
-  },
-  {
-    "item": "Iron Sword",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Iron Sword",
-      "Iron Sword",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Iron Sword",
@@ -12462,22 +11990,6 @@
     "shapeless": false
   },
   {
-    "item": "Shears",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Shears",
-      "Shears",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
     "item": "Shield",
     "quantity": 1,
     "recipe": [
@@ -12546,22 +12058,6 @@
       null
     ],
     "shapeless": false
-  },
-  {
-    "item": "Shield",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Shield",
-      "Shield",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Shulker Box",
@@ -13415,50 +12911,6 @@
     "item": "Stone Axe",
     "quantity": 1,
     "recipe": [
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      null,
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      "Stick",
-      null,
-      null,
-      "Stick",
-      null
-    ],
-    "shapeless": false
-  },
-  {
-    "item": "Stone Axe",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Stone Axe",
-      "Stone Axe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Stone Axe",
-    "quantity": 1,
-    "recipe": [
       "Cobblestone",
       "Cobblestone",
       null,
@@ -13555,46 +13007,6 @@
     "item": "Stone Hoe",
     "quantity": 1,
     "recipe": [
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      null,
-      null,
-      "Stick",
-      null,
-      null,
-      "Stick",
-      null
-    ],
-    "shapeless": false
-  },
-  {
-    "item": "Stone Hoe",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Stone Hoe",
-      "Stone Hoe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Stone Hoe",
-    "quantity": 1,
-    "recipe": [
       "Cobblestone",
       "Cobblestone",
       null,
@@ -13606,50 +13018,6 @@
       null
     ],
     "shapeless": false
-  },
-  {
-    "item": "Stone Pickaxe",
-    "quantity": 1,
-    "recipe": [
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      null,
-      "Stick",
-      null,
-      null,
-      "Stick",
-      null
-    ],
-    "shapeless": false
-  },
-  {
-    "item": "Stone Pickaxe",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Stone Pickaxe",
-      "Stone Pickaxe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Stone Pickaxe",
@@ -13682,42 +13050,6 @@
       null
     ],
     "shapeless": false
-  },
-  {
-    "item": "Stone Shovel",
-    "quantity": 1,
-    "recipe": [
-      null,
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      null,
-      null,
-      "Stick",
-      null,
-      null,
-      "Stick",
-      null
-    ],
-    "shapeless": false
-  },
-  {
-    "item": "Stone Shovel",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Stone Shovel",
-      "Stone Shovel",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Stone Shovel",
@@ -13766,46 +13098,6 @@
       "Stone"
     ],
     "shapeless": false
-  },
-  {
-    "item": "Stone Sword",
-    "quantity": 1,
-    "recipe": [
-      null,
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      null,
-      null,
-      [
-        "Cobblestone",
-        "Blackstone",
-        "Cobbled Deepslate"
-      ],
-      null,
-      null,
-      "Stick",
-      null
-    ],
-    "shapeless": false
-  },
-  {
-    "item": "Stone Sword",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Stone Sword",
-      "Stone Sword",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Stone Sword",
@@ -15174,22 +14466,6 @@
     "item": "Wooden Axe",
     "quantity": 1,
     "recipe": [
-      null,
-      null,
-      null,
-      "Wooden Axe",
-      "Wooden Axe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Wooden Axe",
-    "quantity": 1,
-    "recipe": [
       [
         "Oak Planks",
         "Spruce Planks",
@@ -15233,22 +14509,6 @@
     "item": "Wooden Hoe",
     "quantity": 1,
     "recipe": [
-      null,
-      null,
-      null,
-      "Wooden Hoe",
-      "Wooden Hoe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Wooden Hoe",
-    "quantity": 1,
-    "recipe": [
       [
         "Oak Planks",
         "Spruce Planks",
@@ -15278,22 +14538,6 @@
       null
     ],
     "shapeless": false
-  },
-  {
-    "item": "Wooden Pickaxe",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Wooden Pickaxe",
-      "Wooden Pickaxe",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Wooden Pickaxe",
@@ -15343,22 +14587,6 @@
     "quantity": 1,
     "recipe": [
       null,
-      null,
-      null,
-      "Wooden Shovel",
-      "Wooden Shovel",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
-  },
-  {
-    "item": "Wooden Shovel",
-    "quantity": 1,
-    "recipe": [
-      null,
       [
         "Oak Planks",
         "Spruce Planks",
@@ -15378,22 +14606,6 @@
       null
     ],
     "shapeless": false
-  },
-  {
-    "item": "Wooden Sword",
-    "quantity": 1,
-    "recipe": [
-      null,
-      null,
-      null,
-      "Wooden Sword",
-      "Wooden Sword",
-      null,
-      null,
-      null,
-      null
-    ],
-    "shapeless": true
   },
   {
     "item": "Wooden Sword",
